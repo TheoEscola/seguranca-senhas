@@ -1,3 +1,10 @@
+/*
+INTEGRANTES:
+Theo Pesserl Soares
+Alanys Amaral da Silva dos Santos
+TURMA: 3ª Série I
+*/
+
 const numeroSenha = document.querySelector('.parametro-senha__texto');
 let tamanhoSenha = 12;
 numeroSenha.textContent = tamanhoSenha;
